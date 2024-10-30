@@ -1646,6 +1646,7 @@ bind_keys(settings.key_reverseplaylist, "reverseplaylist", reverseplaylist)
 bind_keys(settings.key_loadfiles, "loadfiles", playlist)
 bind_keys(settings.key_saveplaylist, "saveplaylist", activate_playlist_save)
 bind_keys(settings.key_showplaylist, "showplaylist", showplaylist)
+bind_keys(settings.key_toggle_playlist, "toggle_playlist", toggle_playlist)
 bind_keys(
   settings.key_peek_at_playlist,
   "peek_at_playlist",
